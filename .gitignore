@@ -1,0 +1,9 @@
+.env
+cache_*.csv
+macro_data_cache.csv
+bybit_paper_ledger.json
+paper_ledger.json
+engine.log*
+__pycache__/
+*.pyc
+
